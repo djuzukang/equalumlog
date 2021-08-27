@@ -1,0 +1,19 @@
+
+equalum 
+
+RSEQ:PRIMARY > 나오는 곳이 마스터
+mongo 접속해서 rs.status(); 하면 나옴
+
+LOBO 3T
+
+kafka - topic - Stream
+
+mongo internal? 조회 과부화?
+
+
+curl --silent --output /dev/null --cookie-jar - http://<ip>:9001/api/v1/core/login --header 'Authorization: basic ZXF1YWx1bTplcXVhbHVt'
+--> Cookie 정보 볼 수 있는 명령어
+curl --request GET http://<ip>:9001/api/v1/core/targets/1001 --header 'Cookie: _sessiondata=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiMSIsImV4cCI6MTYzMDU2MjQ5Mn0.G0H_zqA8qeAeXt15BrbaNIzBiO9vuXg-juzZyTCZP90'
+왜 메타데이터는 안돼지?
+curl 옵션 공부
+k 명령어로 kafka

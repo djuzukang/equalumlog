@@ -1,0 +1,19 @@
+vim 명령어
+
+gg 맨 위
+G 맨밑
+# 하이라이트
+H 위에
+M 중간
+L 미테
+v 커서 위치부터 긁기 
+V 한줄 씩 긁기
+ctrl + u
+ctrl + d
+r 한단어 replace
+R 계속 replace
+/ 찾기 모드 n 다음 N 이전
+y 복사
+p 붙여넣기
+shift + a 줄 맨 뒤에서부터 insert
+shift + i 줄 맨 앞에서부터 insert
